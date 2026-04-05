@@ -137,7 +137,7 @@ function App() {
       </p>
     </div>
 
-    {/* SAME REMAINING CARDS (UNCHANGED) */}
+    
   </div>
 </section>
 
