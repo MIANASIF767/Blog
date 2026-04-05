@@ -47,7 +47,7 @@ function App() {
     </nav>
 
 <section className='overflow-hidden h-[500px] md:h-[700px] lg:h-[850px] relative'>  
-  <img className='w-full h-full object-cover z-0 relative md:-top-16 lg:-top-28' src="/public/Header_Home.webp" alt="" />
+  <img className='w-full h-full object-cover z-0 relative md:-top-16 lg:-top-28' src="/Header_Home.webp" alt="" />
 
   <h1 className="absolute top-1/2 left-1/2 md:left-[70%] lg:left-[1000px] leading-tight md:leading-20 lg:leading-32 -tracking-tight
     font-[Open_Sans] w-40 md:w-52 -translate-x-1/2 -translate-y-1/2 text-[rgb(105,130,85)] text-3xl md:text-5xl lg:text-8xl text-center md:text-left">
